@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @sanketshahane24
+- CSUF'24 CS grad
+- Passionate Programmer
 - 👀 I’m interested in Web application Development
 - 📫 How to reach me 
 - Email : shahanesanket24@gmail.com
